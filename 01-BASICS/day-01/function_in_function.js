@@ -5,3 +5,5 @@ function fun(){
     }
     return f;
 }
+var numsum = fun()
+console.log(numsum(3,5))
